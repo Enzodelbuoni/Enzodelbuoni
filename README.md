@@ -70,7 +70,7 @@ Eu também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de 
 
 ## 🚀 Filosofia
 
-> _"Código não é apenas sobre resolver.  
+> _"Código não é apenas sobre resolver problemas.  
 > É sobre construir soluções que escalam, duram, e geram resultados reais."_
 
 ---
